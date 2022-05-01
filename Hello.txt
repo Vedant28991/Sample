@@ -5,5 +5,3 @@
 <h1>This is Header</h1>
 Hello
 <a href="www.google.com"/>
-
-Hi This Code is Accepted..
